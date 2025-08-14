@@ -1,0 +1,7 @@
+name: organizations/131959317762/policies/custom.gcsBucketLocationConstraint
+spec:
+  rules:
+  - enforce: true
+
+
+gcloud org-policies list-custom-constraints --organization=131959317762
